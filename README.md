@@ -45,3 +45,13 @@ Projeto académico realizado por um grupo de quatro estudantes da Universidade S
 7. Objetivo académico
 
 Aplicar conhecimentos de programação em Python, utilizando variáveis, listas, dicionários, funções, condições, ciclos, tratamento de exceções e armazenamento de dados em JSON.
+
+8. Membros do Grupo
+
+1. Elton Onesmo Daniel Nhaduate
+2. Edcio dos Santos Carlos Matsimbe
+3. Yúmina Shánel Dinis Chivulele
+4. Marlene Rogério Matavele
+
+Instituição: Universidade Save (UniSave)
+Ano: 2026
